@@ -1,4 +1,6 @@
-#Taken from machinelearningmastery.com
+# Taken from machinelearningmastery.com
+# Learning how to create a Pandas Data Frame
+
 import numpy
 import pandas
 
